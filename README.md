@@ -1,3 +1,5 @@
-# Rop_Emporium_Solutions
+# ROP_Emporium_Solutions
 
-* There are solutions for pivot64 which spawns a shell - using either system() or execve() 
+Solutions for [ROP Emporium](https://ropemporium.com/)
+
+* There are also solutions for pivot64 which spawns a shell - using either system() or execve()
